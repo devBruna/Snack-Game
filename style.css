@@ -6,7 +6,18 @@ body{
     align-items: center;
     flex-direction: column;
     color: rgb(12, 6, 6);
-    background-color: rgb(58, 54, 54);
+    background-size: 2000px 1100px;
+    background-image: url(imgdados.jpg);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
 
+.titulo {
+    background-color: rgb(245, 118, 59);
+    border-radius: 15px;
+    padding: 5px;
+    border-bottom: 10px;
+}
+
+.game #snake {
+    padding-top: 20px;
 }
